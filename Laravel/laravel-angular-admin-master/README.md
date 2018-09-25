@@ -8,5 +8,3 @@ Plus Oauth and JWT authentication on the side.
 ![Login Screenshot](https://cloud.githubusercontent.com/assets/13616776/14597970/a366dc7c-0582-11e6-853b-776b1cf17aed.png
 )
 
-skype id:- Linuxbean
-contact number USA:- (201)300-2890
